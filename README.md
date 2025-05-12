@@ -692,3 +692,8 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar t
 
 - [Processamento Digital de Imagens](https://github.com/free-educa/books/blob/main/books/Processamento%20Digital%20de%20Imagens.pdf)
 
+
+
+## Machado de Assis
+
+- [Dom Casmurro](livros/Machado_de_Assis/Dom_Casmurro.pdf)
